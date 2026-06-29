@@ -139,22 +139,6 @@ Formatting Suggestions:
 ✔ Split long function into smaller functions
 ```
 
----
-
-# 📷 Screenshots
-
-## 🏠 Home Page
-
-Upload a Python file or paste Python code for analysis.
-
----
-
-## 📈 Code Analysis
-
-Displays code quality metrics, complexity analysis, and style issues.
-
----
-
 ## 📄 Report Generation
 
 Export the complete code review report.
